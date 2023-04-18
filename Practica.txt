@@ -1,1 +1,2 @@
-push es la primera fase y pull es algo que no se que significa
+push es la primera fase y pull es algo que no se que significa 
+esa linea esta escrita desde github 
