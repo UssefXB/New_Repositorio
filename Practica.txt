@@ -1,4 +1,5 @@
-push es la primera fase y pull es algo que no se que significa 
+push la primera fase y pull es algo que no se que significa 
 esa linea esta escrita desde github 
 esa linea para crear un conflicto
 liugiygg
+hola estoy cambiando archivo desde git bash
